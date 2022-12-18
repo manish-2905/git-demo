@@ -1,0 +1,33 @@
+{
+  "version": 2,
+  "dgSpecHash": "qXu/Qt5qsaNcb9gl6fMvT/pBNE9V4RJXTt/2LzL8Nei5iUJNaFInCWFyAasIgPiy3hE/fdiLd+UGhoWPVnU4AQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Manish_Makode\\Desktop\\Project Task\\Git_Example\\git-demo\\Basic_Calc\\Basic_Calc\\Basic_Calc.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.epnet.com:8081/artifactory/api/nuget/eae-nuget-build'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.epnet.com:8081/artifactory/api/nuget/eae-nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.epnet.com:8081/artifactory/api/nuget/eis-nuget-release'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    },
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://artifactory.epnet.com:8081/artifactory/api/nuget/ese-nuget-build'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}
