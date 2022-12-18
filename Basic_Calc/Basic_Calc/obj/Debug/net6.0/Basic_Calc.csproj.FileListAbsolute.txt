@@ -1,0 +1,15 @@
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\bin\Debug\net6.0\Basic_Calc.exe
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\bin\Debug\net6.0\Basic_Calc.deps.json
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\bin\Debug\net6.0\Basic_Calc.runtimeconfig.json
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\bin\Debug\net6.0\Basic_Calc.dll
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\bin\Debug\net6.0\Basic_Calc.pdb
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.csproj.AssemblyReference.cache
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.AssemblyInfoInputs.cache
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.AssemblyInfo.cs
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.csproj.CoreCompileInputs.cache
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.dll
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\refint\Basic_Calc.dll
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.pdb
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\Basic_Calc.genruntimeconfig.cache
+C:\Users\Manish_Makode\Desktop\Project Task\Git_Example\git-demo\Basic_Calc\Basic_Calc\obj\Debug\net6.0\ref\Basic_Calc.dll
